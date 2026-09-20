@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-community
+langchain-openai
+langchain-experimental
+langchain-text-splitters
+langchain-neo4j
+faiss-cpu
+neo4j
+pypdf
+python-dotenv

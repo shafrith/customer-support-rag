@@ -1,0 +1,28 @@
+# Secrets
+.env
+!.env.example
+
+# Environments
+.venv
+env/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Local Databases
+backend/data/*.pdf
+backend/faiss_index/
+
+# Build output & Logs
+dist/
+build/
+*.log
+
+# OS & Editor generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
